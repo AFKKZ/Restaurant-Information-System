@@ -1,0 +1,255 @@
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.AssemblyReference.cache
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.Migrations.InitialCreate.resources
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.GenerateResource.cache
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.CoreCompileInputs.cache
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.dll.config
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.pdb
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.exe
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.exe.config
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.rsp
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.exe
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.exe.config
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.rsp
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Managed.Core.targets
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.AppContext.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Collections.Immutable.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Console.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Globalization.Calendars.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.Compression.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.FileSystem.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Net.Http.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Net.Sockets.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Reflection.Metadata.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.ValueTuple.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XmlDocument.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XPath.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.exe
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.exe.config
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.rsp
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\VBCSCompiler.exe
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\VBCSCompiler.exe.config
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Antlr3.Runtime.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.SqlServer.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.Web.Infrastructure.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Newtonsoft.Json.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Helpers.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Mvc.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Optimization.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Razor.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Deployment.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Razor.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\WebGrease.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.SqlServer.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Helpers.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Mvc.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Optimization.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Razor.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Deployment.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Razor.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Newtonsoft.Json.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Antlr3.Runtime.pdb
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRe.9D62C6D1.Up2Date
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.dll
+D:\522K0019_SE\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.pdb
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.dll.config
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.pdb
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.exe
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.exe.config
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.rsp
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.exe
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.exe.config
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.rsp
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Managed.Core.targets
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.AppContext.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Collections.Immutable.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Console.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Globalization.Calendars.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.Compression.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.FileSystem.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Net.Http.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Net.Sockets.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Reflection.Metadata.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.ValueTuple.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XmlDocument.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XPath.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.exe
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.exe.config
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.rsp
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\VBCSCompiler.exe
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\VBCSCompiler.exe.config
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Antlr3.Runtime.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.SqlServer.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.Web.Infrastructure.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Newtonsoft.Json.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Helpers.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Mvc.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Optimization.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Razor.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Deployment.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Razor.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\WebGrease.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.SqlServer.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Helpers.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Mvc.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Optimization.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Razor.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Deployment.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Razor.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Newtonsoft.Json.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Antlr3.Runtime.pdb
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.AssemblyReference.cache
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.Migrations.InitialCreate.resources
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.GenerateResource.cache
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.CoreCompileInputs.cache
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRe.9D62C6D1.Up2Date
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.dll
+E:\HTHao\Software_Engineering\Final\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.pdb
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.dll.config
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\KTPhamRestaurant.pdb
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.exe
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.exe.config
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csc.rsp
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.exe
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.exe.config
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\csi.rsp
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.AppContext.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Collections.Immutable.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Console.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Globalization.Calendars.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.Compression.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.FileSystem.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Net.Http.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Net.Sockets.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Reflection.Metadata.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.ValueTuple.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XPath.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.exe
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.exe.config
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\vbc.rsp
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\VBCSCompiler.exe
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\roslyn\VBCSCompiler.exe.config
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\Antlr3.Runtime.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.SqlServer.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.Web.Infrastructure.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\Newtonsoft.Json.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Helpers.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Mvc.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Optimization.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Razor.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Deployment.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Razor.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\WebGrease.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\EntityFramework.SqlServer.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Helpers.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Mvc.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Optimization.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.Razor.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Deployment.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\System.Web.WebPages.Razor.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\Newtonsoft.Json.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\Antlr3.Runtime.pdb
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.AssemblyReference.cache
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.Migrations.InitialCreate.resources
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.GenerateResource.cache
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.csproj.CoreCompileInputs.cache
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRe.9D62C6D1.Up2Date
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.dll
+D:\NguyenKhang\Software Engineering\Finals\Work\KTPhamRestaurant\KTPhamRestaurant\obj\Debug\KTPhamRestaurant.pdb
