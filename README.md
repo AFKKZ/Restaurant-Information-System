@@ -6,6 +6,3 @@ External : SMSS
 Compilation guide : 
 - Open SMSS, import the sql file then compile to generate a database
 - Use Visual Studio to launch the project
-
-# Introduction
-This project was the Final project of Software Enginneering course.
